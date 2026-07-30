@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test; node .github/init.js"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
